@@ -5,13 +5,13 @@ Windows Log Rotate
 
 Simply add the desired log into the config.csv file.
 <ul>
-<li>**The first part** is where the log folder file is
+<li>**The first part** is where the log folder file is. ->
 ex : C:\Apache2\logs
 
-<li>**The second part** is how many logs you want to keep in your rotation.
+<li>**The second part** is how many logs you want to keep in your rotation. ->
 ex: 30
 
-<li>**The third part** is the name of the file. 
+<li>**The third part** is the name of the file. ->
 ex : access.log
 
 Note : it's important that you separate those part with a **'~'**.
