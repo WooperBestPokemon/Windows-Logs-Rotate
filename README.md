@@ -13,6 +13,7 @@ ex: 30
 
 <li>**The third part** is the name of the file. ->
 ex : access.log
+</ul>
 
 Note : it's important that you separate those part with a **'~'**.
 
