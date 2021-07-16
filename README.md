@@ -14,6 +14,7 @@ ex: 30
 <li>**The third part** is the name of the file. ->
 ex : access.log
 </ul>
+<<<<<<< HEAD
 
 So the result should looks like this -> C:/Script/BigBrother/logs;5;debug.log
 
